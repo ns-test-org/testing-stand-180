@@ -4,7 +4,7 @@ export default function Landing() {
       {/* Main content - centered */}
       <main className="relative z-10 h-full flex flex-col items-center justify-center px-6">
         <h1 className="text-center text-6xl md:text-8xl font-bold tracking-tight mb-4">
-          Hello World
+          Hello, Innovator!
         </h1>
         
         <p className="text-center text-xl md:text-2xl font-light mt-6 text-gray-300">
@@ -14,5 +14,6 @@ export default function Landing() {
     </div>
   );
 }
+
 
 
