@@ -22,15 +22,16 @@ export default function Landing() {
       {/* Main content - centered */}
       <main className="relative z-10 h-full flex flex-col items-center justify-center px-6">
         <h1 className="text-center text-6xl md:text-8xl font-bold tracking-tight mb-6">
-          Hello World
+          Merry Christmas
         </h1>
         
         <p className="text-center text-xl md:text-2xl font-light text-white/90">
-          Welcome to your new landing page
+          Wishing you joy and happiness this holiday season
         </p>
       </main>
     </div>
   );
 }
+
 
 
